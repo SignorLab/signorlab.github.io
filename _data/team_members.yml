@@ -1,6 +1,6 @@
 - name: "Sarah Signor"
   photo: sarah.jpg
-  CV: See <a href="https://www.signorlab.com/uploads/1/2/6/9/126979833/cv_signor.doc">openings</a> for more info
+  CV: See <a href="https://www.signorlab.com/uploads/1/2/6/9/126979833/cv_signor.doc"/a> for more info
   email: sarah[dot]signor[at]ndsu[dot]edu
   number_educ: 0
   education1:
@@ -9,7 +9,7 @@
   education4:
 
 
-- name: "This could be you !"
+- name: "This could be you!"
   photo: you.jpg
   info: See <a href="https://www.signorlab.com/join-us.html">openings</a> for more info
   email: sarah[dot]signor[at]ndsu[dot]edu
