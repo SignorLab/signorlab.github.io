@@ -23,5 +23,5 @@ Admissions date is flexible. North Dakota State University is a land-grant insti
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/vacancy.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/fly.jpg" width="95%">
 </figure>
