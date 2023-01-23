@@ -88,6 +88,7 @@ Jump to [lead](#lead), [graduate students](#graduate-students), [staff](#staff),
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+  
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>
@@ -124,7 +125,6 @@ Jump to [lead](#lead), [graduate students](#graduate-students), [staff](#staff),
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endfor %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
@@ -141,6 +141,7 @@ Jump to [lead](#lead), [graduate students](#graduate-students), [staff](#staff),
 {% if even_odd == 0 %}
 <div class="row">
 {% endif %}
+{% endfor %}  
 
 ## Alumni
 
@@ -167,9 +168,7 @@ Jump to [lead](#lead), [graduate students](#graduate-students), [staff](#staff),
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endfor %}
-
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if even_odd == 1 %}
 </div>
