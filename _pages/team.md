@@ -202,4 +202,4 @@ Jump to [lead](#lead), [graduate students](#graduate-students), [staff](#staff),
 
 
 ## Administrative Support
-<a href="mailto:email"> Vacant </a> is helping us (and other groups) with administration.
+<a href="mailto:email"> Vacant </a>
