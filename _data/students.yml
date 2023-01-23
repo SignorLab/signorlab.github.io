@@ -8,10 +8,44 @@
 #  education3:
 #  education4:
 
-- name: Vacant
-  photo: rock.jpg
-  info: 
-  email: 
-  number_educ: 
+- name: George Boateng-Sarf
+  photo: george.jpg
+  info: PhD Student, started Fall 2021
+  email: george[dot]boateng[at]ndsu[dot]edu
+  number_educ: 1
+  education1: Masters
+  education2:
+  education3:
+  education4:
+
+- name: Shashank Pritam
+  photo: shashank.jpeg
+  info: PhD Student, started Fall 2022
+  email: shashank[dot]pritam[at]ndsu[dot]edu
+  number_educ: 1
+  education1: Masters in Biological Sciences 
+  education2:
+  education3:
+  education4:
+
+
+- name: Prakash Narayanan
+  photo: prakash.jpg
+  info: Masters Student, started Fall 2022
+  email: prakash[dot]narayanan[at]ndsu[dot]edu
+  number_educ: 1
+  education1: Bachelors in Biochemistry 
+  education2:
+  education3:
+  education4:
+
+- name: "This could be you !"
+  photo: you.jpg
+  info: See <a href="https://www.signorlab.com/join-us.html">openings</a> for more info
+  email: sarah[dot]signor[at]ndsu[dot]edu
+  number_educ: 0
   education1:
+  education2:
+  education3:
+  education4:
 
