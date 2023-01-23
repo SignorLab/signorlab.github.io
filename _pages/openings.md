@@ -19,9 +19,12 @@ There is also potential for collaboration on an existing project in the departme
 Students with an interest in bioinformatics and/or experimental biology are welcome.
 
 Admissions date is flexible. North Dakota State University is a land-grant institution located in Fargo, North Dakota. Fargo is a wonderful place to live, with a diverse food culture, an eclectic downtown, affordable housing, and good schools (if you have a family). If you are interested in this opportunity please send me an email at sarah.signor@ndsu.edu. Please let me know why you are interested in the lab, whether you are interested in a PhD or Masters, and attach a CV with at least two references. If you are a potential fit for the lab we can set up a Skype Interview
-"It's so cold, it keeps the bad people out" - Prince
+
+
+
+> ***"It's so cold, it keeps the bad people out." - Prince***
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/fly.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/fly.jpg" width="100%">
 </figure>
